@@ -1,4 +1,3 @@
-
 #!/bin/bash
 
 echo "===== Estadisticas del servidor ====="
@@ -17,5 +16,5 @@ echo "--- Top 5 procesos por uso de CPU ---"
 ps aux --sort=-%cpu | head -6
 echo ""
 echo "--- Top 5 procesos por uso de Memoria ---"
-ps aux --sort=-%mem | head -6https://roadmap.sh/
-echo "" 
+ps aux --sort=-%mem | head -6
+echo ""
