@@ -1,4 +1,4 @@
-https://roadmap.sh/projects/server-stats
+
 #!/bin/bash
 
 echo "===== Estadisticas del servidor ====="
